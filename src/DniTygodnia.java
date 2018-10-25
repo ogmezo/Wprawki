@@ -8,6 +8,8 @@ public class DniTygodnia {
 
         System.out.println(sumArray(numbers));
 
+System.out.println('Guano dodane w domu do testu');
+
 
 
         }
